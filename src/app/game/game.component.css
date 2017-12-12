@@ -1,0 +1,209 @@
+.title {
+  position: absolute;
+  font-size: 2.5vw;
+  text-align: center;
+  color: Black;
+  top: 20%;
+  bottom: 75%;
+  left: 35%;
+  right: 35%;
+}
+.subtitle {
+  position: absolute;
+  font-size: 2.5vw;
+  text-align: center;
+  color: Black;
+  top: 30%;
+  bottom: 75%;
+  left: 35%;
+  right: 35%;
+}
+.In1{
+  position: absolute;
+  top: 51%;
+  bottom: 45%;
+  left: 36%;
+  padding: .5vw 1vw;
+  flex: 1;
+}
+.In2{
+  position: absolute;
+  top: 51%;
+  bottom: 45%;
+  left: 56%;
+  padding: .5vw 1vw;
+  flex: 1;
+}
+.X{
+  position: absolute;
+  height: 20%;
+  width: 13%;
+  top: 60%;
+  bottom: 20%;
+  left: 35%;
+  right: 45%
+}
+.O{
+  position: absolute;
+  height: 20%;
+  width: 13%;
+  top: 60%;
+  bottom: 20%;
+  left: 55%;
+  right: 25%;
+}
+.Empezar {
+  position: absolute;
+  top: 85%;
+  bottom: 5%;
+  left: 48%;
+  right: 48%;
+  padding: 15px 35px;
+  background-color: #16e94b;
+  border: none;
+  color: red;
+  font-size: 2vw
+}
+
+#second{
+  display: none;
+}
+.puntaje1 {
+  color: Black;
+  position: absolute;
+  top: 20%;
+  left: 7%;
+  display: inherit;
+  font-size: 3vw;
+}
+.puntaje2 {
+  color: Black;
+  position: absolute;
+  top: 20%;
+  left: 23%;
+  display: inherit;
+  font-size: 3vw;
+}
+.nombre1 {
+  color: Black;
+  position: absolute;
+  top: 30%;
+  left: 5%;
+  display: inherit;
+  font-size: 2vw;
+}
+.nombre2 {
+  color: Black;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+  display: inherit;
+  font-size: 2vw;
+}
+.X2{
+  position: absolute;
+  height: 20%;
+  width: 13%;
+  top: 40%;
+  bottom: 50%;
+  left: 3%;
+  right: 10%;
+  z-index: 1;
+}
+.O2{
+  position: absolute;
+  height: 20%;
+  width: 13%;
+  top: 40%;
+  bottom: 50%;
+  left: 20%;
+  right: 17%;
+  z-index: 1;
+}
+.w3-block {
+  position: absolute;
+  border: none;
+  display: inherit;
+  padding: 15px 35px;
+  border: none;
+}
+.button1 {
+  display: inherit;
+  position: absolute;
+  top: 20%;
+  left: 40%;
+}
+.button2 {
+  display: inherit;
+  position: absolute;
+  top: 20%;
+  left: 53%;
+}
+.button3 {
+  display: inherit;
+  position: absolute;
+  top: 20%;
+  left: 66%;
+}
+.button4 {
+  display: inherit;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+}
+.button5 {
+  display: inherit;
+  position: absolute;
+  top: 40%;
+  left: 53%;
+}
+.button6 {
+  display: inherit;
+  position: absolute;
+  top: 40%;
+  left: 66%;
+}
+.button7 {
+  display: inherit;
+  position: absolute;
+  top: 60%;
+  left: 40%;
+}
+.button8 {
+  display: inherit;
+  position: absolute;
+  top: 60%;
+  left: 53%;
+}
+.button9 {
+  display: inherit;
+  position: absolute;
+  top: 60%;
+  left: 66%;
+}
+.Retornar{
+  position: absolute;
+  top: 85%;
+  bottom: 5%;
+  left: 48%;
+  right: 48%;
+  padding: 15px 35px;
+  background-color: #16e94b;
+  border: none;
+  color: red;
+  font-size: 2vw;
+  display: inherit;
+}
+.Inicio{
+  position: absolute;
+  top: 85%;
+  bottom: 5%;
+  left: 60%;
+  right: 20%;
+  padding: 15px 35px;
+  background-color: #16e94b;
+  border: none;
+  color: red;
+  font-size: 2vw;
+  display: inherit;
+}

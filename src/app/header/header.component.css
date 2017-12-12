@@ -1,0 +1,12 @@
+p {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 80%;
+  top: 0%;
+  text-align: center;
+  color: Red;
+  font-size: 2.5em;
+  background-size: cover;
+  background-image: url(/../assets/BackgroundTop.jpg);
+}

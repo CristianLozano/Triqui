@@ -1,0 +1,22 @@
+.title {
+  position: absolute;
+  font-size: 2.5vw;
+  text-align: center;
+  color: Black;
+  top: 20%;
+  bottom: 75%;
+  left: 35%;
+  right: 35%;
+}
+.Empezar {
+  position: absolute;
+  top: 50%;
+  bottom: 40%;
+  left: 47%;
+  right: 48%;
+  padding: 15px 35px;
+  background-color: #16e94b;
+  border: none;
+  color: red;
+  font-size: 2vw
+}
