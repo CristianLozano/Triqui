@@ -132,54 +132,81 @@
   position: absolute;
   top: 20%;
   left: 40%;
+  height: 170px;
+  width: 170px;
+  background: url(/../assets/block.png);
 }
 .button2 {
   display: inherit;
   position: absolute;
   top: 20%;
   left: 53%;
+  height: 170px;
+  width: 170px;
+  background: url(/../assets/block.png);
 }
 .button3 {
   display: inherit;
   position: absolute;
   top: 20%;
   left: 66%;
+  height: 170px;
+  width: 170px;
+  background: url(/../assets/block.png);
 }
 .button4 {
   display: inherit;
   position: absolute;
   top: 40%;
   left: 40%;
+  height: 170px;
+  width: 170px;
+  background: url(/../assets/block.png);
 }
 .button5 {
   display: inherit;
   position: absolute;
   top: 40%;
   left: 53%;
+  height: 170px;
+  width: 170px;
+  background: url(/../assets/block.png);
 }
 .button6 {
   display: inherit;
   position: absolute;
   top: 40%;
   left: 66%;
+  height: 170px;
+  width: 170px;
+  background: url(/../assets/block.png);
 }
 .button7 {
   display: inherit;
   position: absolute;
   top: 60%;
   left: 40%;
+  height: 170px;
+  width: 170px;
+  background: url(/../assets/block.png);
 }
 .button8 {
   display: inherit;
   position: absolute;
   top: 60%;
   left: 53%;
+  height: 170px;
+  width: 170px;
+  background: url(/../assets/block.png);
 }
 .button9 {
   display: inherit;
   position: absolute;
   top: 60%;
   left: 66%;
+  height: 170px;
+  width: 170px;
+  background: url(/../assets/block.png);
 }
 .Retornar{
   position: absolute;
@@ -187,6 +214,19 @@
   bottom: 5%;
   left: 48%;
   right: 48%;
+  padding: 15px 35px;
+  background-color: #16e94b;
+  border: none;
+  color: red;
+  font-size: 2vw;
+  display: inherit;
+}
+.Revancha{
+  position: absolute;
+  top: 85%;
+  bottom: 5%;
+  left: 40%;
+  right: 40%;
   padding: 15px 35px;
   background-color: #16e94b;
   border: none;
